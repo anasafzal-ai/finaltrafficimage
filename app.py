@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 import streamlit as st
 from PIL import Image, ImageOps
-from keras.models import model_from_json
+from tf.keras.models import model_from_json
 import cv2
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
