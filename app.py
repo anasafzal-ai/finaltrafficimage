@@ -9,7 +9,7 @@ import cv2
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 st.write("""
-# Traffic Sign Image Detection App
+# Traffic Sign Image Detection App - Built & Deployed by Anas Afzal
 
 This app detects and classifies German Traffic Signs!
 
